@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lgenshareprice.xyz/sitemap.xml
